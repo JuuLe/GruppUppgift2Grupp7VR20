@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Piltavla
+  - Mitten
+  - Svart
+  - "Bl\xE5"
   layers:
   - Default
   - TransparentFX
